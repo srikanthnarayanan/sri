@@ -1,0 +1,298 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-07-05T03:57:11.733Z",
+        "line": 15,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1707400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am a good tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "good",
+                  "offset": 7
+                }
+              ],
+              "location": "HolyTester.I_am_a_bad_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 131200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I go to work",
+            "match": {
+              "location": "HolyTester.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 103901,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I complete it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "complete",
+                  "offset": 2
+                }
+              ],
+              "location": "HolyTester.I_mess_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 117701,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "My boss success me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "success",
+                  "offset": 8
+                }
+              ],
+              "location": "HolyTester.My_boss_fires_me(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 332499,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "The developer hates me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hates",
+                  "offset": 14
+                }
+              ],
+              "location": "HolyTester.dev(String)"
+            },
+            "keyword": "But "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-07-05T03:57:11.747Z",
+        "line": 16,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 254301,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am a bad tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bad",
+                  "offset": 7
+                }
+              ],
+              "location": "HolyTester.I_am_a_bad_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 82600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I go to work",
+            "match": {
+              "location": "HolyTester.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 102400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I mess it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mess",
+                  "offset": 2
+                }
+              ],
+              "location": "HolyTester.I_mess_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 91500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "My boss fires me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "fires",
+                  "offset": 8
+                }
+              ],
+              "location": "HolyTester.My_boss_fires_me(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 82600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "The developer likes me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "likes",
+                  "offset": 14
+                }
+              ],
+              "location": "HolyTester.dev(String)"
+            },
+            "keyword": "But "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-07-05T03:57:11.747Z",
+        "line": 17,
+        "name": "I am a tester",
+        "description": "",
+        "id": "life-of-tester;i-am-a-tester;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 434501,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am a avg tester",
+            "match": {
+              "arguments": [
+                {
+                  "val": "avg",
+                  "offset": 7
+                }
+              ],
+              "location": "HolyTester.I_am_a_bad_tester(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 143500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I go to work",
+            "match": {
+              "location": "HolyTester.I_go_to_work()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 84399,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I satisfies it",
+            "match": {
+              "arguments": [
+                {
+                  "val": "satisfies",
+                  "offset": 2
+                }
+              ],
+              "location": "HolyTester.I_mess_it(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 91599,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "My boss congratulates me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "congratulates",
+                  "offset": 8
+                }
+              ],
+              "location": "HolyTester.My_boss_fires_me(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62599,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "The developer respects me",
+            "match": {
+              "arguments": [
+                {
+                  "val": "respects",
+                  "offset": 14
+                }
+              ],
+              "location": "HolyTester.dev(String)"
+            },
+            "keyword": "But "
+          }
+        ]
+      }
+    ],
+    "name": "Life of Tester",
+    "description": "  Inorder to get good salary, as a IT guy i want to work hard and better.",
+    "id": "life-of-tester",
+    "keyword": "Feature",
+    "uri": "classpath:cuc/Testet.feature",
+    "tags": []
+  }
+]
